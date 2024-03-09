@@ -1,0 +1,10 @@
+{
+  "name": "reverse-env",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/index.js",
+  "description": "",
+  "author": "heora",
+  "license": "MIT",
+  "dependencies": {}
+}
